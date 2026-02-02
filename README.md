@@ -1,2 +1,2 @@
 # FunZone
-This is a Final Semester eProject.
+FunZone there is seven theme Zone for kids and elders.
